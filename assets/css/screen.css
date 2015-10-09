@@ -1589,15 +1589,19 @@ body:not(.post-template) .post-title {
 
 .poweredby {
     display: block;
-    width: 45%;
+    width: 35%;
     float: right;
     text-align: right;
 }
 
 .copyright {
     display: block;
-    width: 45%;
+    width: 35%;
     float: left;
+}
+
+.icp {
+  text-align: center;
 }
 
 
